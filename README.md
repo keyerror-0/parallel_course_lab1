@@ -1,3 +1,1 @@
-This is first lab in parallel programming course.
-Assembling by make is in the MAKE branch.
-Assemlbing by Cmake is in the CMAKE branch
+Solution using make utility to build project. if you want to use the double type, run the 'make double' command; in the case of float, proceed in the same way
