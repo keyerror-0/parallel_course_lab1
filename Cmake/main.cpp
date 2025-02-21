@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cmath>
-#include <vector>
 
 #ifdef USE_FLOAT
     #define TYPE float
